@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="author" content="NTU CSIE Information System Training Course">
+    <meta name="keywords" content="Keyword 1,Keyword 2">
+    <meta name="description" content="description">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" href="/favicon.png">
+    <title>榮和首頁
+    </title>
+</head>
+
+<body>
+    <img src="C:\Users\USER\Desktop\網站企劃\banner3.png" alt="榮和首頁" />
+
+    <a href="C:\Users\USER\Desktop\網站企劃\firstpage.html"><h1>回首頁</a>
+    <a href="C:\Users\USER\Desktop\網站企劃\index\about us.html">關於我們</a>
+    <a href="C:\Users\USER\Desktop\網站企劃\index\ourvision.html">企業使命</a>
+    <a href="C:\Users\USER\Desktop\網站企劃\index\product itd.html">產品介紹</a>
+    <a href="C:\Users\USER\Desktop\網站企劃\index\contect.html">
+    聯絡我們</a></h1>
+    <img src="C:\Users\USER\Desktop\網站企劃\images\earth.jpg" title="earth" />
+    <p>榮和紙器有限公司為家族經營之紙器包裝公司. 成立於1987年，廠址座落於新北市汐止區, 專營紙器相關包材:紙箱,彩色印刷盒,及各式緩衝材之製造, 並為客戶提供緩衝包材設計之服務,以求包裝材料之最佳化. 我們本著誠信服務、永續經營之理念, 成為您的最佳包材供應夥伴
+    </p>
+</body>
+
+</html>
+
